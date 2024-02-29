@@ -22,8 +22,8 @@ Training diabetes classifier involved training different Machine Learning models
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/diabetes-prediction-streamlit.git
-    cd diabetes-prediction-streamlit
+    git clone https://github.com/umairsiddique3171/diabetes_prediction_web_app_using_streamlit.git
+    cd diabetes_prediction_web_app_using_streamlit
     ```
 
 2. Create and activate a virtual environment:
