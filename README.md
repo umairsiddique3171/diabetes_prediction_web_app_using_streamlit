@@ -48,4 +48,7 @@ Training diabetes classifier involved training different Machine Learning models
 
 5. Access the app in your browser at returned local host (e.g. `http://localhost:8501`).
 
+## License
+[MIT License](https://github.com/umairsiddique3171/diabetes_prediction_web_app_using_streamlit/blob/main/LICENSE)
+
 
