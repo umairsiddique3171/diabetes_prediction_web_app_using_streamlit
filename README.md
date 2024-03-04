@@ -51,4 +51,7 @@ Training diabetes classifier involved training different Machine Learning models
 ## License
 [MIT License](https://github.com/umairsiddique3171/diabetes_prediction_web_app_using_streamlit/blob/main/LICENSE)
 
+## Author 
+[@umairsiddique3171](https://github.com/umairsiddique3171)
+
 
