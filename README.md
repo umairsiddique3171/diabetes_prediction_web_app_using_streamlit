@@ -1,5 +1,5 @@
 # diabetes_prediction_web_app_using_streamlit
-This repository contains code of a streamlit web application for diabetes prediction.
+This project aims to develop a web application for diabetes prediction using streamlit.
 
 ## App Preview
 https://github.com/umairsiddique3171/diabetes_prediction_web_app_using_streamlit/assets/148565997/3a92b058-f609-4177-a9cd-a4f492da5315
